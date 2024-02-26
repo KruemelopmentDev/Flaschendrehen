@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/back6"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#FFDC893D"
+    android:padding="10dp">
+
+    <CheckBox
+        android:id="@+id/checkBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="10dp"
+        android:button="@drawable/checkbox"
+        android:checked="false"
+        android:clickable="true"
+        android:focusable="true" />
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/checkBox"
+        android:layout_alignStart="@id/checkBox"
+        android:button="@drawable/checkbox"
+        android:checked="false"
+        android:clickable="true"
+        android:focusable="true" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/checkBox2"
+        android:layout_alignStart="@id/checkBox2"
+        android:layout_marginTop="10dp"
+        android:button="@drawable/checkbox"
+        android:checked="false"
+        android:clickable="true"
+        android:focusable="true" />
+
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/checkBox"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="10dp"
+        android:layout_toStartOf="@id/checkBox"
+        android:text="Nur App Aufgaben spielen"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/checkBox2"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="10dp"
+        android:layout_toStartOf="@id/checkBox2"
+        android:text="Nur eigene Aufgaben spielen"
+        android:textColor="@android:color/background_dark"
+        android:textSize="15sp" />
+
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@id/checkBox3"
+        android:layout_alignParentStart="true"
+        android:layout_marginEnd="10dp"
+        android:layout_toStartOf="@id/checkBox3"
+        android:text="Nochmal drehen, wenn die Person direkt davor schon dran war"
+        android:textColor="@android:color/black"
+        android:textSize="15sp" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textView23"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button4"
+        android:text="eigene Wahrheiten löschen" />
+
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button4"
+        android:text="eigene Pflichten löschen" />
+
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button4"
+        android:text="Namensvorschläge löschen" />
+
+</RelativeLayout>

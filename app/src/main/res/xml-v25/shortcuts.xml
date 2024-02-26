@@ -1,0 +1,47 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="nonname"
+        android:enabled="true"
+        android:icon="@drawable/shortcut2"
+        android:shortcutShortLabel="@string/s1"
+        android:shortcutLongLabel="@string/l1"
+        android:shortcutDisabledMessage="@string/d">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="org.kruemelopment.de.flaschendrehen"
+            android:targetClass="org.kruemelopment.de.flaschendrehen.Shortcut1" />
+
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="namen"
+        android:enabled="true"
+        android:icon="@drawable/shortcut3"
+        android:shortcutShortLabel="@string/s3"
+        android:shortcutLongLabel="@string/l3"
+        android:shortcutDisabledMessage="@string/d">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="org.kruemelopment.de.flaschendrehen"
+            android:targetClass="org.kruemelopment.de.flaschendrehen.Shortcut3" />
+
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="namenreihe1"
+        android:enabled="true"
+        android:icon="@drawable/shortcut1"
+        android:shortcutShortLabel="@string/s2"
+        android:shortcutLongLabel="@string/l2"
+        android:shortcutDisabledMessage="@string/d">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="org.kruemelopment.de.flaschendrehen"
+            android:targetClass="org.kruemelopment.de.flaschendrehen.Shortcut2" />
+
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+</shortcuts>

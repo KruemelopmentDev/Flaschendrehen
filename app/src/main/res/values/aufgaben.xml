@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wahrheiten" >
+        <item>Was ist das peinlichste, was dir je passiert ist?</item>
+        <item>Wie viele Jungen / Mädchen hast du schon geküsst?</item>
+        <item>Hast du schon einmal eine Person des gleichen Geschlechts geküsst?</item>
+        <item>In wen bist du verliebt?</item>
+        <item>Welches Tier passt am besten zu dir und warum?</item>
+        <item>Welchen Star findest du heiß?</item>
+        <item>Wann hattest du das letzte Mal Sex?</item>
+        <item>Mit wem hattest du zum ersten Mal Sex?</item>
+        <item>Was ist deine schlimmste Macke?</item>
+        <item>Hast du schon mal etwas geklaut?</item>
+        <item>Was war der größte Fehler deines Lebens?</item>
+        <item>Was war dein schlimmstes Date?</item>
+        <item>Was ist deine geheimste, dunkle Fantasie?</item>
+        <item>Mit welcher berühmten Person würdest du gerne einmal eine Nacht verbringen?</item>
+        <item>Wohin würdest du dich jetzt am liebsten beamen?</item>
+        <item>Wer aus der Runde, glaubst du, hat den größten Brustumfang?</item>
+        <item>Du musst einen Star heiraten, wen?</item>
+        <item>Wen aus der Runde würdest du auf eine einsame Insel mitnehmen?</item>
+        <item>Welche Straftat hast du schon mal begangen?</item>
+        <item>Wo und mit wem war dein erster Kuss?</item>
+        <item>Hast du schon einmal Drogen genommen? (außer Alkohol und Tabak)</item>
+        <item>Wer aus der Runde sollte am dringendsten zum Friseur?</item>
+        <item>Was würdest du tun, wenn du für einen Monat ein Mann/eine Frau wärst?</item>
+        <item>Welches wirklich kindische Verhalten hast du immer noch?</item>
+        <item>Hast du schon einmal jemanden für etwas beschuldigt, an dem du Schuld warst? Und was war es?</item>
+        <item>Mit welcher Person im Raum würdest du am ehesten knutschen?</item>
+        <item>Welches ist der merkwürdigste Ort, an dem du gepinkelt hast?</item>
+        <item>Bist Du schon mal fremdgegangen?</item>
+        <item>Hattest Du schon mal einen Dreier?</item>
+        <item>Findest Du eine der hier anwesenden Personen heiß?</item>
+        <item>Hattest Du schon mal Analsex?</item>
+        <item>Welche Intimfrisur trägst Du?</item>
+        <item>Wann hattest Du das letzte Mal Sex?</item>
+        <item>Welche Sexstellung gefällt Dir am besten?</item>
+        <item>Hattest Du schon mal Sex mit mehr als einer Person in einer Woche?</item>
+        <item>Hattest Du schon mal Sex im Freien? Wenn ja, wo?</item>
+        <item>Wie viele Leute hast Du schon geküsst?</item>
+        <item>Hast Du schon mal etwas geklaut?</item>
+        <item>Was war Dein peinlichstes Erlebnis in der Schule?</item>
+        <item>Hast Du heute schon gelästert?</item>
+        <item>Wärst Du lieber hässlich und beliebt oder hübsch und unbeliebt?</item>
+        <item>Mit welchem Promi würdest Du sofort ins Bett springen?</item>
+        <item>Was war Dein schlimmstes Date?</item>
+        <item>Würde es Dich reizen, mit einer Person Deines Geschlechts Sex zu haben?</item>
+        <item>Wann hattest Du Deinen letzten Filmriss?</item>
+        <item>Wer aus der Runde hat den schönsten Hintern?</item>
+        <item>Was ist das Dümmste, das Du je getan hast?</item>
+        <item>Wäschst du dir immer die Hände, wenn du auf dem Klo warst?</item>
+        <item>Wer ist Deiner Meinung nach der heißeste Typ/ Mädchen auf deiner Schule?</item>
+        <item>Wen in diesem Raum magst du am meisten?</item>
+        <item>Was findest Du an Dir besonders schön?</item>
+        <item>Hast du schon mal einen Liebesbrief an jemanden geschrieben? Wenn ja, an wen?</item>
+        <item>Was würdest du gerne mal ausprobieren, traust dich aber nicht?</item>
+        <item>Was ist dein größtes (geheimes) Laster?</item>
+        <item>Wen aus der Runde würdest du am liebsten in ein Schwein verzaubern?</item>
+        <item>Wenn du illegal dein Geld verdienen würdest, womit würdest du es verdienen?</item>
+        <item>Wenn du blind wärst, wer aus der Runde wäre dein Blindenhund?</item>
+        <item>Wenn du ab jetzt für den Rest des Abends nur noch 3 Worte benutzen dürftest um dich auszudrücken – welche wären es?</item>
+        <item>Wenn du Diktator wärst, welches Gesetz würdest du als erstes erlassen?</item>
+        <item>Was war das peinlichste Erlebnis in deiner Schulzeit / Studienzeit / Ausbildung / im letzten Jahr?</item>
+        <item>Was würdest du niemals tun – auch wenn du weißt, du hast nur noch 12 h zu leben?</item>
+        <item>Was würdest du gerne mal bei mir…machen, wenn du danach mein Gedächtnis löschen könntest?</item>
+        <item>Welche Straftat hast du schon begangen?</item>
+        <item>In wen warst du bis jetzt am heftigsten verknallt?</item>
+        <item>Warst du schon einmal in einen der hier Anwesenden verliebt?</item>
+        <item>Wenn du ein Vampir wärst, wen von uns würdest du jetzt beißen?</item>
+        <item>Was ist das Schlimmste was du je erlebt hast?</item>
+        <item>Was ist deine dunkelste Fantasie?</item>
+        <item>Was ist das Schönste, dass du je mit einem anderen Menschen erlebt hast?</item>
+        <item>Wen aus unserer Runde möchtest du am liebsten nackt sehen?</item>
+        <item>Hattest du schon mal einen erotischen Traum in dem jemand aus dieser Runde vorkam?</item>
+        <item>Wenn du dich im Intimbereich tätowieren würdest – was stünde dort?</item>
+        <item>Was ist wichtiger in einer Beziehung – Sex oder Liebe?</item>
+        <item>Woran denkst du, wenn du dich selbst befriedigst?</item>
+        <item>Hast du schon mal einen Porno angeschaut? Wenn ja, welcher ist dein Favorit?</item>
+        <item>Was würdest du machen, wenn du unsichtbar wärst?</item>
+        <item>Hattest du schon mal Sex-Fantasien von jemandem in dieser Runde?</item>
+        <item>Wer aus dieser Runde hat den schönsten Arsch?</item>
+        <item>An welchem exotischen Ort würdest du gern einmal Sex haben?Warum?</item>
+        <item>Hast du schon Nacktbilder von dir gemacht?</item>
+        <item>Hast du schon Nacktbilder von dir verschickt?</item>
+        <item>Was ist dein dunkelstes Geheimnis?</item>
+
+
+    </string-array>
+
+    <string-array name="pflichten" >
+        <item>Küsse eine andersgeschlechtliche Person auf die Wange/den Mund!</item>
+        <item>Zeige der Gruppe ein wirklich peinliches Foto von dir!</item>
+        <item>Imitiere ein Tier!</item>
+        <item>Versuche deine Beine hinter den Kopf zu bekommen!</item>
+        <item>Umarme dein gegenüber!</item>
+        <item>Tausche das T-Shirt mit der Person rechts/links von dir!</item>
+        <item>Aus dem Fenster schreien “Ich heiße (Name) und bin ein Esel”!</item>
+        <item>Lass dich zehn Sekunden lang durchkitzeln!</item>
+        <item>Füttere die Person rechts neben dir mit etwas Leckerem!</item>
+        <item>Trinke ein großes Glas eines Getränks auf Ex!</item>
+        <item>Mache fünf Liegestütze!</item>
+        <item>Verbringe eine Runde mit den Füßen nach oben, Kopf nach unten!</item>
+        <item>Nimm einen Zeh in den Mund - egal von wem!</item>
+        <item>Mache zehn Liegestützen!</item>
+        <item>Erzähle der Person gegenüber, wie toll er/sie ist!</item>
+        <item>Nenne eine Sache über dich, wegen der du schon Komplimente bekommen hast!</item>
+        <item>Iss etwas und tue so, als wäre es das leckerste, was du je gegessen hast!</item>
+        <item>Mache die lustigste Grimasse, die dir einfällt!</item>
+        <item>Finde heraus, wessen Haare am besten riechen!</item>
+        <item>Küsse die andersgeschlechtliche Person, die als erstes rechts von dir kommt!</item>
+        <item>Benimm dich zwei Minuten wie ein Huhn!</item>
+        <item>Mach eine Person deiner Wahl aus der Gruppe nach!</item>
+        <item>Der Spieler rechts von dir darf dir ein Gebräu aus allen möglichen Zutaten mischen und du musst es trinken!</item>
+        <item>Fluch zehn Sekunden lang, was das Zeug hält!</item>
+        <item>Riech an den Achselhöhlen jeder Person im Raum!</item>
+        <item>Versuche, für 10 Sekunden zu breakdancen!</item>
+        <item>Die Gruppe darf sich ein Lied aussuchen, du musst dazu tanzen!</item>
+        <item>Singe mindestens 1 Strophe eines dir bekannten Liedes!</item>
+        <item>Flirte mit einem Gegenstand!</item>
+        <item>Versuche wie Nicki Minaj (oder ein anderer Rapper) zu rappen!</item>
+        <item>Rede 3 Runden mit einem Akzent!</item>
+        <item>Spiele eine Szene aus deinem Lieblingsfilm nach!</item>
+        <item>Führe eine Unterhaltung mit einem Stuhl und tu so, als ob er antworten würde!</item>
+        <item>Flirte einen Mitspieler an, so als wäre er/sie der heißeste Typ/Mädel, den du je gesehen hast. Gib alles!</item>
+        <item>Erzähle der Person direkt gegenüber, was toll an ihm/ihr ist!</item>
+        <item>Tu so, als würdest du dich gerade bei "Germanys Next Top Model" bewerben und den Laufsteg vor Heidi und Co. hoch und runter laufen!</item>
+        <item>Tu so als wärst du der absolute Kussexperte und zeig deinen Mitspielern wie ein perfekter Zungenkuss aussieht, jedem einzeln!</item>
+        <item>Mach jemanden aus der Runde pantomimisch nach, die anderen müssen erraten, wer es ist!</item>
+        <item>Lass dir die Augen verbinden und erkenne einen Mitspieler am Geruch!</item>
+        <item>Zieh allen die Socken aus und Stopf sie in deine Hose / und oder deinen BH!</item>
+        <item>Benimm dich wie eine Nutte oder ein Stricher und versuch jemanden dazu zu bringen, dich zu kaufen!</item>
+        <item>Füttere eine Person deiner Wahl mit Sprühsahne!</item>
+        <item>Überzeuge jemanden davon, dich als Sklaven zu kaufen – indem du ihm Dienste anbietest, die du aber auch einhalten musst!</item>
+        <item>Leck einen Gegenstand deiner Wahl ab!</item>
+        <item>Mache mir eine (versaute / witzige / romantische) Liebeserklärung!</item>
+        <item>Mache einer Person deiner Wahl aus der Runde einen Heiratsantrag!</item>
+        <item>Frau: zieh dir den BH aus und bring ihn mir!/Mann: zieh dir deine Boxershorts aus und gib sie mir!</item>
+        <item>Flüster einer Person deiner Wahl versaute Sachen ins Ohr und versuch sie anzuturnen!</item>
+        <item>Gib eine Erotik-Kontaktanzeige auf!</item>
+        <item>Setze dich einer Person deiner Wahl auf den Schoß – oder setze sie auf deinen Schoß und spiele einen Orgasmus vor!</item>
+        <item>Bestimme einen Mitspieler, der dir einen Zungenkuss gibt!</item>
+        <item>Küsse eine Person gleichen Geschlechts so gut du kannst!</item>
+        <item>Greife einer Person deiner Wahl in die Hose!</item>
+        <item>Strippe für mich so gut du kannst!</item>
+        <item>Öffne mit deinen Lippen und Zähnen die Hose eines Mitspielers deiner Wahl!</item>
+        <item>Erzähle eine versaute Geschichte und benutze möglichst viele schmutzige Wörter!</item>
+        <item>Demonstriere mit einem Mitspieler deine Lieblingssexstellung und kommentiere alles!</item>
+        <item>Führ mit einer Banane oder Gartengurke den perfekten Blowjob vor!</item>
+        <item>Zieh einem Mitspieler deiner Wahl möglichst verführerisch und erotisch das T-Shirt aus und küsse ihn /sie vom Bauchnabel bis zum Hosenbund!</item>
+        <item>Mache ein erotisches Foto von einem Mitspieler deiner Wahl!</item>
+        <item>Versuch eine Person deiner Wahl zu verführen und gehe dabei soweit du willst…!</item>
+        <item>Zeige deinen Bauch/dein Sixpack!</item>
+        <item>Lecke den Boden ab!</item>
+        <item>Mache 5 Liegestützen!</item>
+        <item>Mache die lustigste Grimasse, die dir einfällt!</item>
+        <item>Mache Furzgeräusche!</item>
+        <item>Frau:Ruf einen Freund an und sage, du seist schwanger!/Mann:Ruf einen Freund an und sage, du hättest letzte Nacht Sex gehabt und das Kondom vergessen!</item>
+        <item>Mache einen Telefonprank mit einem der Wörter: Fidget Spinner,Katzenfutter oder Dildo!</item>
+        <item>Ziehe für 1 Runde dein Oberteil aus! Frauen auch den BH!</item>
+        <item>Der Mitspieler rechts von dir öffnet dir alle Knöpfe und Reißverschlüsse!</item>
+        <item>Renne in Unterhose durchs Haus und schreie "Ich fühle mich frei"!</item>
+        <item>Jemand darf etwas auf deinem Twitter/Facebook/Instagram/etc. -profil posten!</item>
+        <item>Bei den Nachbarn klingeln, und wenn jemand aufmacht, sagen: "Tut mir Leid, es war nur ein Klingelstreich - Sie können wieder reingehen."!</item>
+        <item>Mach dich im Spiegel selbst an!</item>
+        <item>Frau:Tu so als würdest du einem Jungen einen blasen!/Mann:Tu so als würdest du eine Frau oral befriedigen!</item>
+        <item>Tu so, als hättest du einen Orgasmus!</item>
+        <item>Tu so als würdest du in einer Selbsthilfegruppe für Sexsüchtige sein!</item>
+        <item>Sing während du Liegestütze machst laut alle meine Entchen!</item>
+        <item>Der Spieler rechts von dir darf sich einen Spitznamen für dich ausdenken(egal welchen) und muss dich dann immer so nennen!</item>
+        <item>Mann:Küsse alle anwesenden Mädchen auf den Mund!/Frau:Küsse alle anwesenden Jungen auf den Mund!</item>
+        <item>Du bekommst von jedem Mitspieler einen Klapser auf den Arsch!</item>
+        <item>Trinke ein alkoholisches Getränk auf ex!</item>
+        <item>Haue jedem Mitspieler einmal auf den Arsch!</item>
+        <item>Flirte jemanden aus der Runde mit deinen besten Sprüchen an!</item>
+        <item>Sag einen Zungenbrecher so schnell und so richtig du kannst auf!</item>
+    </string-array>
+
+
+
+
+
+</resources>

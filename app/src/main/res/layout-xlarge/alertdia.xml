@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/back1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@android:color/background_light"
+    android:gravity="center"
+    android:padding="20dp">
+
+        <AutoCompleteTextView
+            android:id="@+id/editText3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/edmannxxl"
+            android:hint="Gib hier bitte alle Namen, durch ein Komma getrennt ein!"
+            android:inputType="text|textMultiLine"
+            android:textAlignment="center"
+            android:textColorHint="@android:color/darker_gray"
+            android:textColor="@android:color/black"
+            android:textSize="40sp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/editText3"
+            android:layout_centerHorizontal="true"
+            android:text="Weiter"
+            android:textColor="#FFBE6716"
+            android:textSize="60sp" />
+</RelativeLayout>

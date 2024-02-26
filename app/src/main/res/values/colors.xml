@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BFDC893D</color>
+    <color name="colorPrimaryDark">#BFDC893D</color>
+    <color name="colorAccent">#BFDC893D</color>
+    <color name="blacktras">#e9000000</color>
+    <color name="wahrheit">#68fc4e</color>
+    <color name="pflicht">#ff0909</color>
+    <color name="konsum">#ca0000</color>
+    <color name="brown">#dc893d</color>
+</resources>

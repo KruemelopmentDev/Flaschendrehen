@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Flaschendrehen</string>
+    <string name="s1">Runde ohne Namen</string>
+    <string name="l1">Runde ohne Namen starten</string>
+    <string name="d">Deaktiviert</string>
+    <string name="s2">Runde mit Namen und Reihenfolge</string>
+    <string name="l2">Runde mit Namen und Reihenfolge starten</string>
+    <string name="s3">Runde mit Namen</string>
+    <string name="l3">Runde mit Namen starten</string>
+    <string name="appversion">2.2.3</string>
+    <string name="nutzung"><![CDATA[Mit der Nutzung dieser App aktzeptiere ich die <a href=\"https://www.kruemelopment-dev.de/datenschutzerklaerung\">Datenschutzerklärung</a> und die <a href=\"https://www.kruemelopment-dev.de/nutzungsbedingungen\">Nutzungsbedingungen</a> von Krümelopment Dev]]></string>
+    <string name="update">Update</string>
+    <string name="question_already_exisits">Diese Frage hast du schon notiert!</string>
+    <string name="no_questions_created">Du hast noch keine Fragen erstellt</string>
+    <string name="mini_flaschendrehen_running">Mini-Flaschendrehen läuft</string>
+    <string name="stopp">Stoppen</string>
+    <string name="dare_already_noted">Diese Pflichtaufgabe hast du schon notiert!</string>
+    <string name="classic_game">Klassisches Spiel</string>
+    <string name="ordered_game">Spiel nach Reihenfolge</string>
+    <string name="noname_game">Spiel ohne Namen</string>
+    <string name="delete_name_proposes">Namensvorschläge löschen</string>
+    <string name="delete_name_proposes_text">Bist du dir sicher, dass du alle Namensvorschläge löschen willst?</string>
+    <string name="delete_dares">Pflichtaufgaben löschen</string>
+    <string name="delete_dares_text">Bist du dir sicher, dass du alle deine Pflichtaufgaben löschen willst?</string>
+    <string name="no_dares_created">Du hast noch keine Pflichten erstellt</string>
+    <string name="truth">Wahrheit</string>
+    <string name="dare">Pflicht</string>
+    <string name="name_proposals_deleted">Alle Namensvorschläge wurden gelöscht</string>
+    <string name="created_mincount_of_options">Bitte erstelle erst mehr als 10 eigene Fragen und Pflichten um diese Option zu wählen!</string>
+    <string name="insert_names_error_msg">Scherzkekse, bitte gebt eure Namen kommagetrennt ein</string>
+    <string name="start_mini_version">Mini-Version starten</string>
+    <string name="stop_mini_version">Mini-Version stoppen</string>
+    <string name="export_failed">Exportieren fehlgeschlagen</string>
+    <string name="tasks_saved">Deine Aufgaben wurden gespeichert</string>
+    <string name="no_truth_dare_file">Das ist keine Flaschendrehen Datei!</string>
+    <string name="import_failed">Importieren fehlgeschlagen</string>
+    <string name="import_finished">Importieren abgeschlossen</string>
+    <string name="all_dares_deleted">Alle deine Pflichtaufgaben wurden gelöscht.</string>
+    <string name="all_truth_deleted">Alle deine Fragen wurden gelöscht.</string>
+    <string name="delete_truth">Fragen löschen</string>
+    <string name="delete_truth_text">Bist du dir sicher, dass du alle deine Fragen löschen willst?</string>
+
+</resources>

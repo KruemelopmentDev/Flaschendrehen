@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/back3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/brown"
+    android:padding="10dp"
+    android:gravity="center">
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:isScrollContainer="true"
+            android:maxHeight="400dp"
+            android:scrollbarSize="4dp"
+            android:scrollbarThumbVertical="@android:color/darker_gray"
+            android:scrollbars="vertical"
+            android:textAlignment="center"
+            android:textColor="@android:color/black"
+            android:textSize="60sp" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView8"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/button"
+            android:text="Erledigt"
+            android:textColor="@color/wahrheit"
+            android:textSize="60sp" />
+
+
+</RelativeLayout>
